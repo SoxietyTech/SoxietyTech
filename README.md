@@ -1,4 +1,4 @@
-<h1 align="center">So<span style="color:red;">xi</span>ety Technology Solutions</h1>
+<h1 align="center">SO<span style="color:red;">XI</span>ETY Technology Solutions</h1>
 
 <h2 align="center">Empowering Your Digital Landscape with Innovative Solutions</h2>
 
